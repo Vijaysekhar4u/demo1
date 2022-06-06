@@ -15,6 +15,10 @@ vi : edit the file
 nano : edit the file
 ls : list the file and directories
 rm -rf : remove the file recurssively
+cp : copy the file
+mv : move the file
+locate : locate the file in a linux system
+cat : dispaly the content of a file
 
 
 
