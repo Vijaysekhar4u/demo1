@@ -1,0 +1,16 @@
+this is for learning of creating  a branch and merging a brach in local
+
+initailly create a brach by using " git branch feature"
+
+then it created a branch file named as feature.
+
+the data in main brach copied in this feature branch
+
+you can see that data by using the ls command
+
+for changing a branch in git bash you can give the command of git branch checkout feature.
+
+git branch gives the status of which branch you are in the location
+
+git commit -m "abcd" gives you the commit in local file
+
