@@ -18,9 +18,13 @@ rm -rf : remove the file recurssively
 cp : copy the file
 mv : move the file
 locate : locate the file in a linux system
-cat : dispaly the content of a file
+cat : dispaly the content of file
 
+Git commands:
 
+git add -all -u it update the all the data from local to server
+git brach : it givrs the details of all branches in the git filr
+git checkout : it changes the git branch location
 
 
 
